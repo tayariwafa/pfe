@@ -1,0 +1,6 @@
+/web/upload/
+/vendor/
+/ressources/cache/
+/ressources/log/
+/composer.lock
+.idea/
